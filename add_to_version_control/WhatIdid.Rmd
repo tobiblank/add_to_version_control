@@ -1,0 +1,18 @@
+---
+title: "WhatIDid"
+author: "ME"
+date: "2023-09-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What I did
+1. I *installed and activated* ggplot2
+2. I *added an existing R-Studio project from GitHub*
+3. I created a *file structur*
+4. I *added a RStudio Script* and tried to code a little, with little success
+5. I wrote this *RMarkdown* file and saved it.
+6. I *staged, commited and pushed* the project to GitHub
